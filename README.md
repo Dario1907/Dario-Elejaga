@@ -1,9 +1,9 @@
 #      Dario Elejaga
 1234 W 49th St Miami, Florida, 33018
 
-      (786) 439-5807
+ (786) 439-5807
       
-      delej001@fiu.edu
+ delej001@fiu.edu
 
 ## Header 2
 ### Header 3
