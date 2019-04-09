@@ -1,15 +1,23 @@
-#      Dario Elejaga
+# **Dario Elejaga**
+
 1234 W 49th St Miami, Florida, 33018
-    (786) 439-5807
+   
+   (786) 439-5807
+  
    delej001@fiu.edu
 
-## Education
-Florida International University, Miami, FL                                                          01/2019 - Present
-Bachelor of Science in Computer Information Systems
-GPA: 4.0
-Miami Dade College, Hialeah, FL                                                                      08/2016-12/2018
-Associates of Arts in Computer Information Systems
-GPA: 3.1 
+## **Education**
+**Florida International University, Miami, FL**                                                          01/2019 - Present
+
+-Bachelor of Science in Computer Information Systems
+
+-GPA: 4.0
+
+**Miami Dade College, Hialeah, FL**                                                                      08/2016-12/2018
+
+-Associates of Arts in Computer Information Systems
+
+-GPA: 3.1 
 
 ### Header 3
 
