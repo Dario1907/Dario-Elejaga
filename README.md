@@ -9,17 +9,28 @@
 ## **Education**
 **Florida International University, Miami, FL**                                                          01/2019 - Present
 
--Bachelor of Science in Computer Information Systems
+•  Bachelor of Science in Computer Information Systems
 
--GPA: 4.0
+•  GPA: 4.0
 
 **Miami Dade College, Hialeah, FL**                                                                      08/2016-12/2018
 
--Associates of Arts in Computer Information Systems
+•  Associates of Arts in Computer Information Systems
 
--GPA: 3.1 
+•  GPA: 3.1 
 
-### Header 3
+### Experience
+
+**Megafiesta 305, Miami, FL** 						                                                         09/2014 - Present
+_Information Specialist_
+•	Organize inventory for maximum efficiency 
+•	Produce data of the company’s earnings in Excel efficiently 
+•	Advise costumers to help with their needs
+**Jorge Mas Canosa Youth Center, Sweetwater, FL**			                                                    06/2014 - 08/2014
+_Volunteer_
+•	Organized the facility for city events 
+•	Produced information packets for the public to know about events coming up at the facility
+•	Partnered with media outlets to help promote events like the 4th of July	
 
 - Bulleted
 - List
